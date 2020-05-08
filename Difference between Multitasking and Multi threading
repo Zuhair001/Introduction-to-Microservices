@@ -1,1 +1,29 @@
 
+						MULTITASKING																														MULTITHREADING
+						
+						
+1.	In multitasking, users are allowed 																While in multithreading, many threads are
+		to perform many tasks by CPU.																			created from a process through which computer
+																																			power is increased.
+
+2.	Multitasking involves often CPU 																	While in multithreading also, CPU switching is 
+		switching between the tasks.																			often involved between the threads.
+			
+
+3.	In multitasking, the processes 																		While in multithreading, processes are allocated
+		share separate memory.																						same memory.
+			
+
+4.	Multitasking component involves																		While multithreading component does not involve 
+		multiprocessing.																									multiprocessing.
+			
+
+5.	In multitasking, CPU is provided																	While in multithreading also, CPU is provided in 
+		in order to execute many tasks at																	order to execute many threads from a process at 
+		a time.																														a time.
+			
+
+6.	In multitasking, processes don’t																	While in multithreading, each process share same 
+		share same resources, each process																resources.
+		is allocated separate resources.																																							 
+		
